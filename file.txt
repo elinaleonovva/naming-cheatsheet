@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Change 1 from branch3
 Change 2 from branch3
 Change 3 from branch3
+=======
+Change 1 from branch2
+Change 2 from branch2
+Change 3 from branch2
+>>>>>>> new-one
